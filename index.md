@@ -31,6 +31,7 @@ layout: default
    {% endif %}
   
 </div>
+<hr>
   <h2>Blue Team</h2>
 <div class="posts">
   {% assign cont = 0 %}
@@ -58,6 +59,7 @@ layout: default
    {% endif %}
   </div>
   {% endif %}
+  <hr>
   <h2>Desarrollo</h2>
 <div class="posts">
   {% assign cont = 0 %}
