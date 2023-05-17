@@ -16,6 +16,7 @@ permalink: /blue/
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
+  <hr>
   {% endif %}
   {% endfor %}
 </div>
