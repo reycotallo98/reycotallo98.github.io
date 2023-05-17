@@ -4,7 +4,8 @@ title: Blue team
 permalink: /blue/
 ---
 <div class="posts">
-  {% for post in site.posts.blue %}
+  {% for post in site.posts %}
+  {% if post.category == "blue" %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,5 +16,6 @@ permalink: /blue/
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
+  {% endif %}
   {% endfor %}
 </div>
