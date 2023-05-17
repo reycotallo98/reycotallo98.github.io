@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Blue team
+permalink: /blue/
 ---
 <div class="posts">
   {% for post in site.blues %}
