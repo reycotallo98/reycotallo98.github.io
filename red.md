@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /red/
 ---
 <div class="posts">
   {% for post in site.reds %}
