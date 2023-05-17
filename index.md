@@ -36,7 +36,7 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-  {% if cont < 3 %}
+  {% if cont2 < 3 %}
  
  
    {% if post.category == "blue" %}
@@ -54,7 +54,7 @@ layout: default
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if cont == 0 %}
+  {% if cont2 == 0 %}
  <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   </div>
@@ -62,7 +62,7 @@ layout: default
   <hr>
   <h2>Desarrollo</h2>
 <div class="posts">
-  {% assign cont = 0 %}
+  {% assign cont1 = 0 %}
   {% for post in site.posts %}
   {% if cont < 3 %}
  
@@ -82,7 +82,7 @@ layout: default
    {% endif %}
   {% endif %}
   {% endfor %}
-  {% if cont == 0 %}
+  {% if cont1 == 0 %}
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
