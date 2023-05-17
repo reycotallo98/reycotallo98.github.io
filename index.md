@@ -34,7 +34,7 @@ layout: default
 <hr>
   <h2>Blue Team</h2>
 <div class="posts">
-  {% assign cont = 0 %}
+  {% assign cont2 = 0 %}
   {% for post in site.posts %}
   {% if cont2 < 3 %}
  
@@ -64,7 +64,7 @@ layout: default
 <div class="posts">
   {% assign cont1 = 0 %}
   {% for post in site.posts %}
-  {% if cont < 3 %}
+  {% if cont1 < 3 %}
  
  
    {% if post.category == "dev" %}
