@@ -3,7 +3,7 @@ layout: default
 permalink: /red/
 ---
 <div class="posts">
-  {% for post in site.reds %}
+  {% for post in site.posts.red %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
