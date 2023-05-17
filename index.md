@@ -14,7 +14,7 @@ layout: default
    {% if post.category == "red" %}
   <article class="post">
 
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h2>{{ post.title }}</h2>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -42,7 +42,7 @@ layout: default
    {% if post.category == "blue" %}
   <article class="post">
 
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h2>{{ post.title }}</h2>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -70,7 +70,7 @@ layout: default
    {% if post.category == "dev" %}
   <article class="post">
 
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h2>{{ post.title }}</h2>
 
       <div class="entry">
         {{ post.excerpt }}
