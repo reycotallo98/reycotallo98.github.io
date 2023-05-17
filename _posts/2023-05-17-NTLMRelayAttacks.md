@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blue
 tag: AD
 NTLM Relay Attacks: Surfeando el AD
 ---
