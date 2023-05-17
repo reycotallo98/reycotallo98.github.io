@@ -3,7 +3,7 @@ layout: default
 permalink: /dev/
 ---
 <div class="posts">
-  {% for post in site.devs %}
+  {% for post in site.posts.dev %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
