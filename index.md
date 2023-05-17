@@ -8,7 +8,10 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-   
+  {% if cont == 3 %}
+  {% break %}
+ 
+   {% if post.category == "red" %}
   <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -19,5 +22,61 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
+  {% increment cont %}
+   {% endif %}
   {% endfor %}
+  {% if cont == 0 %}
+  <h2>No se han encontrado artículos aún</h2>
+   {% endif %}
+  
+</div>
+  ### Blue Team
+<div class="posts">
+  {% assign cont = 0 %}
+  {% for post in site.posts %}
+  {% if cont == 3 %}
+  {% break %}
+ 
+   {% if post.category == "blue" %}
+  <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
+    </article>
+  {% increment cont %}
+   {% endif %}
+  {% endfor %}
+  {% if cont == 0 %}
+  <h2>No se han encontrado artículos aún</h2>
+   {% endif %}
+  </div>
+  ### Desarrollo
+<div class="posts">
+  {% assign cont = 0 %}
+  {% for post in site.posts %}
+  {% if cont == 3 %}
+  {% break %}
+ 
+   {% if post.category == "dev" %}
+  <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
+    </article>
+  {% increment cont %}
+   {% endif %}
+  {% endfor %}
+  {% if cont == 0 %}
+  <h2>No se han encontrado artículos aún</h2>
+   {% endif %}
 </div>
