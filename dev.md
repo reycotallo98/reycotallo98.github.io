@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /dev/
 ---
 <div class="posts">
   {% for post in site.devs %}
