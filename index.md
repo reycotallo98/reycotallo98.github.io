@@ -4,7 +4,7 @@ layout: default
 
 # Bienvenido a mi blog
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
-### Red Team
+## Red Team
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
@@ -27,11 +27,11 @@ layout: default
    {% endif %}
   {% endfor %}
   {% if cont == 0 %}
-  <h2>No se han encontrado artículos aún</h2>
+  <p>***No se han encontrado artículos aún***</p>
    {% endif %}
   
 </div>
-  ### Blue Team
+  <h2>Blue Team</h2>
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
@@ -54,10 +54,11 @@ layout: default
    {% endif %}
   {% endfor %}
   {% if cont == 0 %}
-  <h2>No se han encontrado artículos aún</h2>
+ <p>***No se han encontrado artículos aún***</p>
    {% endif %}
   </div>
-  ### Desarrollo
+  {% endif %}
+  <h2>Desarrollo</h2>
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
@@ -80,6 +81,6 @@ layout: default
   {% endif %}
   {% endfor %}
   {% if cont == 0 %}
-  <h2>No se han encontrado artículos aún</h2>
+<p>***No se han encontrado artículos aún***</p>
    {% endif %}
 </div>
