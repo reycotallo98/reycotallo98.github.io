@@ -34,9 +34,9 @@ layout: default
 <hr>
   <h2><a href="{{ site.baseurl }}/blue">Blue Team</a></h2>
 <div class="posts">
-  {% assign cont2 = 0 %}
+  {% assign conta = 0 %}
   {% for post in site.posts %}
-  {% if cont2 < 3 %}
+  {% if conta < 3 %}
  
  
    {% if post.category == "blue" %}
@@ -50,11 +50,11 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment cont2 %}
+  {% increment conta %}
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if cont2 == 0 %}
+  {% if conta == 0 %}
  <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   </div>
@@ -62,9 +62,9 @@ layout: default
   <hr>
   <h2><a href="{{ site.baseurl }}/dev">Desarrollo</a></h2>
 <div class="posts">
-  {% assign cont1 = 0 %}
+  {% assign contb = 0 %}
   {% for post in site.posts %}
-  {% if cont1 < 3 %}
+  {% if contb < 3 %}
  
  
    {% if post.category == "dev" %}
@@ -78,11 +78,11 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment cont1 %}
+  {% increment contb %}
    {% endif %}
   {% endif %}
   {% endfor %}
-  {% if cont1 == 0 %}
+  {% if contb == 0 %}
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
