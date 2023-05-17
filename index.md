@@ -27,7 +27,7 @@ layout: default
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if  cont == 1 %}
+  {% if  cont == 0 %}
   <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   
@@ -56,7 +56,7 @@ layout: default
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if conta == 1 %}
+  {% if conta == 0 %}
  <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   </div>
@@ -84,7 +84,7 @@ layout: default
    {% endif %}
   {% endif %}
   {% endfor %}
- {% if contb == 1 %}
+ {% if contb == 0 %}
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
