@@ -58,7 +58,7 @@ layout: default
  <p>***No se han encontrado artículos aún***</p>
    {% endif %}
   </div>
-  {% endif %}
+ 
   <hr>
   <h2>Desarrollo</h2>
 <div class="posts">
