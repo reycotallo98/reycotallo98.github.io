@@ -8,10 +8,11 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-  {% if cont < 3 %}
+  
   
  
    {% if post.category == "red" %}
+ {% if increment cont < 3 %}
   <article class="post">
 
       <h2>{{ post.title }}</h2>
@@ -22,11 +23,11 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment cont %}
+  
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if cont == 0 %}
+  {% if increment cont == 1 %}
   <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   
@@ -36,10 +37,11 @@ layout: default
 <div class="posts">
   {% assign conta = 0 %}
   {% for post in site.posts %}
-  {% if conta < 3 %}
+  
  
  
    {% if post.category == "blue" %}
+ {% if increment conta < 3 %}
   <article class="post">
 
       <h2>{{ post.title }}</h2>
@@ -50,11 +52,11 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment conta %}
+  
    {% endif %}
    {% endif %}
   {% endfor %}
-  {% if conta == 0 %}
+  {% if increment conta == 1 %}
  <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   </div>
@@ -64,7 +66,7 @@ layout: default
 <div class="posts">
   {% assign contb = 0 %}
   {% for post in site.posts %}
-  {% if contb < 3 %}
+  {% if increment contb < 3 %}
  
  
    {% if post.category == "dev" %}
@@ -78,11 +80,11 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment contb %}
+  
    {% endif %}
   {% endif %}
   {% endfor %}
-  {% if contb == 0 %}
+  {% if increment contb == 1 %}
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
