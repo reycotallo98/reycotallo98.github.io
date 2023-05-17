@@ -5,6 +5,7 @@ permalink: /blue/
 ---
 # Blue Team
 ## En este apartado se encuentran mis investigaciones y teoría en ciberdefensa.
+ <hr>
 <div class="posts">
   {% for post in site.posts %}
   {% if post.category == "blue" %}
