@@ -50,7 +50,7 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment cont %}
+  {% increment cont2 %}
    {% endif %}
    {% endif %}
   {% endfor %}
@@ -78,7 +78,7 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
-  {% increment cont %}
+  {% increment cont1 %}
    {% endif %}
   {% endif %}
   {% endfor %}
