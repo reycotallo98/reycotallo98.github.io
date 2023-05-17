@@ -4,6 +4,7 @@ permalink: /red/
 ---
 <div class="posts">
   {% for post in site.posts.red %}
+  {% if post.category == "red" %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,5 +15,6 @@ permalink: /red/
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
     </article>
+  {% endif %}
   {% endfor %}
 </div>
