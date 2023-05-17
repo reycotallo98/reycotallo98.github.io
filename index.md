@@ -8,8 +8,8 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-  {% if cont == 3 %}
-  {% break %}
+  {% if cont < 3 %}
+  
  
    {% if post.category == "red" %}
   <article class="post">
@@ -24,6 +24,7 @@ layout: default
     </article>
   {% increment cont %}
    {% endif %}
+   {% endif %}
   {% endfor %}
   {% if cont == 0 %}
   <h2>No se han encontrado artículos aún</h2>
@@ -34,8 +35,8 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-  {% if cont == 3 %}
-  {% break %}
+  {% if cont < 3 %}
+ 
  
    {% if post.category == "blue" %}
   <article class="post">
@@ -50,6 +51,7 @@ layout: default
     </article>
   {% increment cont %}
    {% endif %}
+   {% endif %}
   {% endfor %}
   {% if cont == 0 %}
   <h2>No se han encontrado artículos aún</h2>
@@ -59,8 +61,8 @@ layout: default
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
-  {% if cont == 3 %}
-  {% break %}
+  {% if cont < 3 %}
+ 
  
    {% if post.category == "dev" %}
   <article class="post">
@@ -75,6 +77,7 @@ layout: default
     </article>
   {% increment cont %}
    {% endif %}
+  {% endif %}
   {% endfor %}
   {% if cont == 0 %}
   <h2>No se han encontrado artículos aún</h2>
