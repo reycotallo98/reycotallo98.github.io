@@ -4,7 +4,7 @@ layout: default
 
 # Bienvenido a mi blog
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
-## Red Team
+<h2>Red Team</h2>
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
