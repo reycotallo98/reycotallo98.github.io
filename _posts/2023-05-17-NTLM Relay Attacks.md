@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blue
-tag: AD
+tags: AD NTLM Windows Blue
 author: RedDev
 NTLM Relay Attacks: Surfeando el AD
 ---
