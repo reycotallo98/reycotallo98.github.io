@@ -3,3 +3,8 @@ description: En este blog encontrarás artículos relacionados con el desarrollo
 show_downloads: true
 google_analytics: G-NFL1HHC6DX
 theme: jekyll-theme-hacker
+
+tipue_search:
+  include:
+    pages: false
+    collections: 
