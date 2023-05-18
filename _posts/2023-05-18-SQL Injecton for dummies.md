@@ -37,8 +37,10 @@ Si nosotros insertaramos '*' por ejemplo, la consulta quedaría de esta forma:
 ```SQL
 SELECT * FROM USERS;
 ```
-### Pongamonos el BlackHat
 Es decir nos dumpearia la tabla USERS, pero hasta aquí no hay nada interesante, ya que el formulario nos devuelve información de los usuarios directamente.
+
+
+### Pongamonos el BlackHat
 Ahora imaginemos que lo que nos devuelve es información de un coche en una base de datos, entoneces nuestra query quedaría de esta forma:
 ```SQL
 SELECT * FROM CARS WHERE NOMBRE LIKE '(lola)';
