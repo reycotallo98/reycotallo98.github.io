@@ -57,14 +57,16 @@ Y de esta forma, desde un input que consulta coches podrémos dumpear la tabla d
 
 Lo primero que hay que entender es como funciona este tipo de logins:
 <form >
-  <div><input type="text" name="q" id="lola" title="At least 3 characters" required>
-  ><input type="password" name="pass" id="pass" title="At least 3 characters" required></div>
+  Username
+  <input type="text" id="lola">
+  Password
+  <input type="password" name="pass" id="pass" >
 <input type="submit">
 </form>
 ```html
 <form >
-  <div><input type="text" name="q" id="lola" title="At least 3 characters" required>
-  ><input type="password" name="pass" id="pass" title="At least 3 characters" required></div>
+  <div><input type="text"  id="lola" >
+  ><input type="password" name="pass" id="pass"></div>
 <input type="submit">
 </form>
 ```
