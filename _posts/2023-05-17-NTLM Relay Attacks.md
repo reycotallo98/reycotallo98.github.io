@@ -6,7 +6,7 @@ author: RedDev
 NTLM Relay Attacks: Surfeando el AD
 ---
 
-### ¿Qué es un NTLM Relay Attack?
+## ¿Qué es un NTLM Relay Attack?
 Lo primero de todo es conocer NTLM.
 
 #### Entonces,¿qué es NTLM?
