@@ -3,19 +3,15 @@ layout: post
 category: red
 tags: SocialEngineer engaño timo estafa
 author: RedDev
-Phising - A la pesca del merluzo : Phising - A la pesca del merluzo
+Phising - A la pesca del merluzo : aaaa
 ---
 
-### ¿Qué es el phising?
+## ¿Qué es el phising?
 
 El phising es una de las técnicas  mas usadas por estafadores online, este conjunto de técnicas entran dentro de la categoría de la ingeniería social.
-
 Volviendo al hilo, la realización de un phising, se basa en el engaño al usuario, ya sea mediante suplantación, extorsión... A nivel técnico no es de las técnicas más difíciles, realmente lo dificil quizas sea el hecho de automatizarlo, para tener un mayor "scope".
-
 Mediante estos ataques, los ciberdelincuentes causan daños tanto económicos a los usuarios, pudiendo sacar más de 10.000€ diarios, como reputacionales a las empresas.
-
 Normalmente los atacantes se hacen pasar por alguien de una compañía(sí, saben de que compañía eres, ahora las noticias de las filtraciones de datos importan más ee... :)) de la que seamos clientes, creandose un e-mail falso con algo relacionado con la compañía. Usaremos de ejemplo el banco "miBanco", por lo que un atacante puede crear un dominio falso parecido al de nuestro banco, por ejemplo fulanitaLaBankera@mybanco.com, como podemos observar fulanita, nuestra banquera de confianza tiene un correo correspondiente a nuestro banco, con la diferencia de que usa "my" en vez de "mi" en el dominio.
-
 Relacionado con el dominio, nos podemos encontrar el caso de que fulanita nos pida ingresar a este enlace para resetear la contraseña de nuestra cuenta del banco por un supuesto ataque, o lo que se les ocurra, por lo que fulanita manda un enlace del estilo www.mybanco.com/reset-password/, al clickar se abre aparentemente la pagina de tu antiguo banco pidiendote tu contraseña antigua. É voilá, tienen tu cuenta bancaria.
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/8939bf12-035e-4be7-8b3b-955d9d25e3e8)
 
@@ -43,13 +39,12 @@ Modificando un poco la respuesta, lograríamos captar mucha gente.
 ## ¿Realmente es difícil hacer esto?
 
 La respuesta corta es no.
-
 Existen diversas herramientas públicas y openSource las cuales lo hacen por nosotros como por ejemplo SETToolkit integrada en KaliLinux...
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/97a311a3-6e40-4209-9a8c-b2b6826ee61a)
 
-
 Como veis la página generada, es exactamente la de facebook, y todas las credenciales que se utilicen en ella serán recolectadas por el atacante.
+
 
 ## ¿Como me protejo de esto?
 
