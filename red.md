@@ -7,7 +7,7 @@ title: Red Team
 ## En esta sección encontraras herramientas, walkthroughts de máquinas así como investigaciones en el área del ciberataque.
  <hr>
 <div class="posts">
-  {% for post in site.posts.red %}
+  {% for post in site.posts %}
   {% if post.category == "red" %}
     <article class="post">
 
