@@ -22,6 +22,7 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
+ <hr>
     </article>
   {% assign cont = cont | plus: 1 %}
    {% endif %}
@@ -32,7 +33,7 @@ layout: default
    {% endif %}
   
 </div>
-<hr>
+
   <h2><a href="{{ site.baseurl }}/blue">Blue Team</a></h2>
 <div class="posts">
   {% assign conta = 0 %}
@@ -51,6 +52,7 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
+ <hr>
     </article>
   {% assign conta = conta | plus: 1 %}
    {% endif %}
@@ -61,7 +63,7 @@ layout: default
    {% endif %}
   </div>
  
-  <hr>
+
   <h2><a href="{{ site.baseurl }}/dev">Desarrollo</a></h2>
 <div class="posts">
   {% assign contb = 0 %}
@@ -79,6 +81,7 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Seguir leyendo</a>
+ <hr>
     </article>
   {% assign contb = contb | plus: 1 %}
    {% endif %}
