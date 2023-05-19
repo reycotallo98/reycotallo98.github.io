@@ -6,10 +6,10 @@ author: RedDev
 NTLM Relay Attacks: Surfeando el AD
 ---
 
-## ¿Qué es un NTLM Relay Attack?
+# ¿Qué es un NTLM Relay Attack?
 Lo primero de todo es conocer NTLM.
 
-#### Entonces,¿qué es NTLM?
+## Entonces,¿qué es NTLM?
 
 NTLM(New Technology LAN Manager) es un conjunto de protocolos de autentificación desarrollado por Microsoft, para sustituir al antiguo NTLAN Manager.
 Estos protocolos funcionan de esta manera, el servidor nos entrega una cadena numérica, la cual el usuario cifra desde su ordenador con la contraseña que introduce; entonces se envía a el controlador de dominio, el cual tenía previamente la misma cadena numérica cifrada con nuestra contraseña, y tras compararla nos validará como usuario o no.
@@ -17,7 +17,7 @@ Estos protocolos funcionan de esta manera, el servidor nos entrega una cadena nu
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/3f19b484-e51f-4d49-8f21-ded4b8f474f4)
 
 
-### Ahora sí, así funciona un NTLM Relay attack
+## Ahora sí, así funciona un NTLM Relay attack
 
 Un ataque NTLM Relay, es del tipo MITM( Men in the Middle).
 Lo que significa que el atacante se situa entre la comunicación cliente-servidor, sniffando todo el tráfico que pasa por el canal creado. Esto se consigue haciendo que el cliente nos vea como el servidor al que se dirige, y el servidor como su cliente. 
