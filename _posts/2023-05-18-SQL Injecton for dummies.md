@@ -6,11 +6,11 @@ author: RedDev
 SQL Injection For Dummies: Bypasseando el Login
 ---
 
-### ¿Qué es SQL Injection?
+## ¿Qué es SQL Injection?
 SQL Injection es el nombre que se le da a las diversas técnicas utilizadas para dumpear o aprovechar vulnerabilidades relacionadas con bases de datos sql, ya sea por una mala gestión de ciertos carácteres especiales o por una mala consulta a la base de datos. 
 Podemos considerar estas técnicas como las madres de otras técnicas como NoSQLi.
 
-### ¿Cómo puedo realizar estas técnicas?
+## ¿Cómo puedo realizar estas técnicas?
 
 Primero debemos comprender como funcionan las consultas que se realizan desde una app web hacia su base de datos.
 
@@ -40,7 +40,7 @@ SELECT * FROM USERS;
 Es decir nos dumpearia la tabla USERS, pero hasta aquí no hay nada interesante, ya que el formulario nos devuelve información de los usuarios directamente.
 
 
-### Pongamonos el BlackHat
+## Pongamonos el BlackHat
 Ahora imaginemos que lo que nos devuelve es información de un coche en una base de datos, entoneces nuestra query quedaría de esta forma:
 ```SQL
 SELECT * FROM CARS WHERE NOMBRE LIKE '(lola)';
@@ -55,7 +55,7 @@ Con el operador UNION, nos unira los resultados de los dos selects, ademas es im
 Y de esta forma, desde un input que consulta coches podrémos dumpear la tabla de usuarios. Pero...¿Como podemos usar esto para por ejemplo bypasear un login?
 
 
-### ByPass al login 
+## ByPass al login 
 
 Lo primero que hay que entender es como funciona este tipo de logins:
 <form >
@@ -87,7 +87,7 @@ Esto lo que nos va a generar es una query que su where da siempre positivo, por 
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/8dca80f1-b73b-44cc-9031-5beca12682aa)
 
-### Eres un Script Kiddle y no te apetece hacerlo a mano?
+## Eres un Script Kiddle y no te apetece hacerlo a mano?
 
 Pues he aquí la solucion [SQLMap](https://sqlmap.org/), esta herramienta, con los input de la web, automatiza el proceso de SQLInjection pudiendo incluso sacarte directamente una shell con control sobre el servidor que aloja la web.
 
