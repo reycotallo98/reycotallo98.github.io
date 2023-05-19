@@ -6,7 +6,7 @@ author: RedDev
 title : Phising - A la pesca del merluzo 
 ---
 
-### ¿Qué es el phising?
+## ¿Qué es el phising?
 El phising es una de las técnicas  mas usadas por estafadores online, este conjunto de técnicas entran dentro de la categoría de la ingeniería social.
 Volviendo al hilo, la realización de un phising, se basa en el engaño al usuario, ya sea mediante suplantación, extorsión... A nivel técnico no es de las técnicas más difíciles, realmente lo dificil quizas sea el hecho de automatizarlo, para tener un mayor "scope".
 
@@ -18,8 +18,7 @@ Relacionado con el dominio, nos podemos encontrar el caso de que fulanita nos pi
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/8939bf12-035e-4be7-8b3b-955d9d25e3e8)
 
 
-### El peligro de las IAs
-
+## El peligro de las IAs
 Con el surgimiento de las IAs, este ambito se volvío muy peligroso, hasta el punto de que es muy difícil para el usuario medio comprobar la veracidad de ese correo, llamada, etc. Ya que las nuevas IAs se basan en la naturalización del lenguaje, es decir de comunicarse como un humano lo haría, además con el nacimiento de estas, nacieron otras técnicas como lo son el DeepFake, pero eso lo hablaremos en otro post.
 Para comprobar la integridad de las IAs frente a estos prompts(preguntas que se le hacen a la IA), le haré la siguiente consulta a Chat-GPT-3.
 
@@ -39,7 +38,6 @@ prompt:
 Modificando un poco la respuesta, lograríamos captar mucha gente.
 
 ## ¿Realmente es difícil hacer esto?
-
 La respuesta corta es no.
 Existen diversas herramientas públicas y openSource las cuales lo hacen por nosotros como por ejemplo SETToolkit integrada en KaliLinux...
 
@@ -49,7 +47,6 @@ Como veis la página generada, es exactamente la de facebook, y todas las creden
 
 
 ## ¿Como me protejo de esto?
-
 Muyyyyyyy fácil, sigue las recomendaciones:
 
 - Fijate bien en el dominio del correo,web o lo que sea...
