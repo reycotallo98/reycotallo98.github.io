@@ -2,6 +2,7 @@
 layout: post
 title: Sobre mí
 permalink: /about/
+author: RedDev
 ---
 ¿Quién soy?
 Hola, mi nombre es Jorge Rey, aka RedDev, actualmente soy desarrollador de aplicaciones móviles y profesional en el mundo de la ciberseguridad.
