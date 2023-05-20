@@ -243,9 +243,17 @@ hr {
    a, a:hover, a:visited
 */
 
-a {
+a .blue{
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+a .red{
+  color: #f21707;
+  text-shadow: 0 0 5px rgba(213, 0, 0, 0.5);
+}
+a .dev{
+  color: #b5b010;
+  text-shadow: 0 0 5px rgba(218, 247, 166, 0.5);
 }
 
 /* Clearfix */
