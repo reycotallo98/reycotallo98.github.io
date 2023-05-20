@@ -15,7 +15,7 @@ layout: default
   {% if cont < 3 %}
   <article class="post">
 
-      <h2>{{ post.title }}</h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}" class="red">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -45,7 +45,7 @@ layout: default
   {% if conta < 3 %}
   <article class="post">
 
-      <h2>{{ post.title }}</h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}" class="blue">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -74,7 +74,7 @@ layout: default
    {% if post.category == "dev" %}
   <article class="post">
 
-      <h2>{{ post.title }}</h2>
+     <h2><a href="{{ site.baseurl }}{{ post.url }}" class="dev">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
