@@ -27,7 +27,7 @@ A los que hasta este punto se sientan seguros, dejadme deciros que no lo estais.
 Aquí os adjunto una noticia, que hace poco generó terror en EEUU.
 <a href="https://www.elconfidencial.com/tecnologia/novaceno/2022-04-25/china-eeuu-computacion-cuantica_3412816/">China afirma que puede romper los hases de cifrado de contraseñas</a>
 
-# Viendo como esta el panorama, ¿qué opciones tenemos para protegernos?
+# Viendo como está el panorama, ¿qué opciones tenemos para protegernos?
 La opción más utilizada a día de hoy es la molesta para algunos, o la salvadora de otros, el 2FA(2 factor authentication), este se basa en un segundo control de seguridad además de la contraseña, normalmente un código enviado al número de teléfono o al correo vinculado a la cuenta.
 Aún así, esto es insuficiente, ya que es posible captar estos códigos mediante diferentes técnicas, como tener hackeado el correo de la persona, así como directamente bypasear este control.
 
