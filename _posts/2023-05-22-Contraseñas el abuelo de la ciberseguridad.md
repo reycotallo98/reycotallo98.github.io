@@ -14,9 +14,9 @@ Estas se basan en una combinación de carácteres la cual podiamos inventarnos o
 Lo primero que debemos saber es de que manera se tratan nuestras contraseñas. 
 En una web con distintos usuarios y sus respectivas contraseñas, estas son almacenadas en una base de datos y mayoritariamente encriptadas, con un cifrado más seguro o menos.
 
-¿No os parece raro esto?
+¿No os parece raro esto?¿No sería más sencillo tenerlas en texto claro?
 
-Esto se hace con el motivo de que se asume que tarde o temprano estas van a ser filtradas, de hecho hay miles de bases de datos en venta en distintos portales por X cantidad de dinero, a todos nos ha llegaod el cada vez más típico correo de "se ha encontrado tu contraseña en un repositorio online, para iniciar sesión, debes restablecerla.
+Esto se hace con el motivo de que se asume que tarde o temprano estas van a ser filtradas, de hecho hay miles de bases de datos en venta en distintos portales por X cantidad de dinero, a todos nos ha llegado el cada vez más típico correo de "se ha encontrado tu contraseña en un repositorio online, para iniciar sesión, debes restablecerla".
 Por eso se cifran.
 
 Puedes comprobar la seguridad de tus cuentas introduciendo tu email aquí -> <a href="https://haveibeenpwned.com/">Have i been pwned?</a>
@@ -46,4 +46,4 @@ Aunque con técnicas, eso si, muy sofisticadas, que requieren material especific
 
 # Reflexión del autor
 En mi opinión, los esfuerzos en obligar a la gente a generar contraseñas seguras, que luego son repetidas en varias cuentas o que sea una contraseña del tipo "MigatoSeLlamaAlan1234", no sirven de nada.
-Se debe enfocar el futuro de la auteticación hacía opciones biometricas o de diferentes sistemas como Google Authenticator, que realmente verifican la identidad de la persona.
+Se debe enfocar el futuro de la auteticación hacia opciones biometricas o de diferentes sistemas como Google Authenticator, que realmente verifican la identidad de la persona.
