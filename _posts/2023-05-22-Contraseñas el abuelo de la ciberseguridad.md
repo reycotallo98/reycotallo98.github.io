@@ -16,7 +16,7 @@ En una web con distintos usuarios y sus respectivas contraseñas, estas son alma
 ¿No os parece raro esto?
 Esto se hace con el motivo de que se asume que tarde o temprano estas van a ser filtradas, de hecho hay miles de bases de datos en venta en distintos portales por X cantidad de dinero, a todos nos ha llegaod el cada vez más típico correo de "se ha encontrado tu contraseña en un repositorio online, para iniciar sesión, debes restablecerla.
 Por eso se cifran.
-Puedes comprobar la seguridad de tus cuentas introduciendo tu email aquí -> (Have i been pwned?)[https://haveibeenpwned.com/]
+Puedes comprobar la seguridad de tus cuentas introduciendo tu email aquí -> <a href="https://haveibeenpwned.com/">Have i been pwned?</a>
 A los que hasta este punto se sientan seguros, dejadme deciros que no lo estais. Aunque si que es cierto que el cifrado debe romperse mediante ataques de fuerza bruta, cada vez más sofisticados, debemos tener en cuenta que con la llegada de la computación cuantica esto cambiará, aquí os dejo una tabla del tiempo que lleva romper un hash encriptado de una password a dia de hoy.
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/8c9833ec-4d2c-4b9a-907c-90edfae2e5f4)
 
