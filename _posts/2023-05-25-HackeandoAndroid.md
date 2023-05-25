@@ -24,7 +24,7 @@ Siendo LHOST nuestra ip, en este caso privada y el LPORT el puerto de escucha.
 El payload es de tipo meterpreter, este tipo de virus es muy peligroso ya que funciona por medio de inyecciones dinamicas en memoria, lo que lo hace difícil de detectar y además permite el uso de otros exploits de forma fácil.
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/602b5004-d20c-4eb2-b4dc-477b00588fea)
 
-## 2.Usando el listener
+## 2.Configurando el listener
 Primero abrimos msfconsole
 ```bash
 msfconsole
@@ -67,7 +67,7 @@ run
 Y a funcionar :)
 ![Captura de pantalla 2023-05-26 011413](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/98354012-f3a5-4f3b-b49c-1e480bac7800)
 
-## 3.Pasando e instalando el apk maliciosa
+## 3.Enviando e instalando el apk maliciosa
 Descargamos la apk en el dispositivo:
 ![Captura de pantalla 2023-05-26 011816](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/cd602b93-315a-4959-bde3-410427a4595d)
 
