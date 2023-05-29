@@ -65,17 +65,20 @@ Trás esto escribimos:
 run
 ```
 Y a funcionar :)
-![Captura de pantalla 2023-05-26 011413](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/98354012-f3a5-4f3b-b49c-1e480bac7800)
+![Captura de pantalla 2023-05-26 012015](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/f76b45b1-7bbe-48ed-8612-ca4dfa19eb5b)
 
 ## 3.Enviando e instalando el apk maliciosa
 Descargamos la apk en el dispositivo:
 ![Captura de pantalla 2023-05-26 011816](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/cd602b93-315a-4959-bde3-410427a4595d)
 
 Ahora procedemos a instalarla, y una vez abierta, obtenemos la sesión:
-![Captura de pantalla 2023-05-26 012015](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/bea26a17-1200-411d-8712-bbcb0e159839)
+
+
 
 Ahora vamos a ver las opciones que nos brinda este tipo de virus:
-![Captura de pantalla 2023-05-26 012015](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/2f15b637-3cac-4f58-8f5b-4fde56cc2f78)
+![Captura de pantalla 2023-05-26 012250](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/c1827fef-4c27-4f0c-be32-e7edb706510d)
+![Captura de pantalla 2023-05-26 012320](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/31ab0f89-9fde-4f06-8345-e7d3660fa3c6)
+
 Entre las opciones que nso brinda esta:
 - Espiar la pantalla del dispositivo
 - Grabar el micrófono o la webcam
