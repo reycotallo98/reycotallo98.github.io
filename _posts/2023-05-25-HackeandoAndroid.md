@@ -69,10 +69,8 @@ Y a funcionar :)
 
 ## 3.Enviando e instalando el apk maliciosa
 Descargamos la apk en el dispositivo:
-![Captura de pantalla 2023-05-26 011816](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/cd602b93-315a-4959-bde3-410427a4595d)
-
 Ahora procedemos a instalarla, y una vez abierta, obtenemos la sesión:
-
+![Captura de pantalla 2023-05-26 011816](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/cd602b93-315a-4959-bde3-410427a4595d)
 
 
 Ahora vamos a ver las opciones que nos brinda este tipo de virus:
