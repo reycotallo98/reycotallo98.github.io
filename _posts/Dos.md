@@ -1,0 +1,41 @@
+---
+layout: post
+category: red
+tags: Dos denegacion  servicio
+author: RedDev
+title : Ataque DoS, como parar una empresa
+---
+
+# ¿Qué es un ataque Dos?
+Los ataques Dos(Denial of Service), se basan en realizar peticiones a un servidor con el fin de  crear una denegación de servicio.
+Es decir, generar una parada del servicio, con diferentes fines como puede ser dañar la reputación de la empresa, parar el negocio o interferir en ciertos servicios que interfieran en un ataque más elaborado.
+
+## En que se basa un ataque DoS
+Según la creencia popular un ataque DoS se basa en enviar una cierta cantidad de paquetes a un servidor hasta que por la cantidad de tráfico que hay se colapsa el servicio en cuestión o el servidor.
+Aunque este tipo de ataques se pueden realizar de otras formas, como enviar un paquete modificado de tal forma que el servidor no está preparado para procesarlo y colapsa.
+
+## ¿Qué es el DDos?
+Este tipo de ataques se basa en los ataques DDoS de tráfico masivo, pero con una cantidad masiva de clientes en el ataques.
+Esto lo suelen hacer los hackers mediante una botnet como Mantis, estas botnet se forman a base de ordenadores infectados previamente mediante un virus.
+
+![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/fcac2fb8-69cd-41db-ad37-71fe5da18639)
+
+# Ejemplos de ataques Dos y DDos
+## Las "bromas" de whatsapp
+Todos hemos vido en los últimos días los efectos de un mensaje en whatsapp que contenia este enlace: wa.me/settings
+No es un ataque significante pero es un gran ejemplo para este tema, así como aquel conocido carácter asiático que congelaba temporalmente los dispositivos.
+Como veis este tipo de ataque DoS, no se basa en un alto tráfico, si no en un simple mensaje que no es capaz de manejar correctamente el servidor.
+
+## Low Orbit Ion Cannon, el arma DDoS de anonymous
+Este era el programa utilizado por los usuarios seguidores del famoso movimiento "Anonymous" en los años cercanos a 2008-2010, este tenía la funcion de generar tráfico basura y de esta forma tirar los diferentes servicios,
+el programa funcionaba en Windows XP y en linux mediante soporte de Wine por ejemplo.
+El modus operandi se basaba en una propuesta de ataque a X objetivo por Ys motivos y los usuarios interesados se unian al atacante.
+![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/ecaf8e7e-008f-4bac-bdd1-8a8f5a2a32e4)
+
+
+# ¿Cómo podemos evitar estos ataques?
+Existen diferentes soluciones comerciales o "técnicas" con las que protegerse de estos ataques:
+- Proxys intermediarios como CloudFlare, estos servicios funcionan mediante la introducción de captchas o tiempos de espera, antes de poder enviar tráfico mediante un tiempo de espera determinado, de esta forma nos evitamos el uso de bots.
+- Uso de arquitectura de escalado, es decir un conjunto de servidores en los cuales cuando uno se satura, reparte el tráfico a los demás o elevar sus recursos de manera dinámica.
+- WAFs(Web Aplication Firewall), nos protegen de diversos ataques además del DoS, como el SQLi. Esto lo hacen mediante diferentes métodos, como detección de tráfico inusual, direcciones geográficas de ips anómalas...
+
