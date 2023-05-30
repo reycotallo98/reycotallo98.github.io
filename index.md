@@ -4,7 +4,7 @@ layout: default
  
 # Bienvenido a mi blog
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
-<h2><a href="{{ site.baseurl }}/red">Red Team</a></h2>
+<h1><a href="{{ site.baseurl }}/red">Red Team</a></h1>
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
@@ -34,7 +34,7 @@ layout: default
   
 </div>
 
-  <h2><a href="{{ site.baseurl }}/blue">Blue Team</a></h2>
+  <h1><a href="{{ site.baseurl }}/blue">Blue Team</a></h1>
 <div class="posts">
   {% assign conta = 0 %}
   {% for post in site.posts %}
@@ -64,7 +64,7 @@ layout: default
   </div>
  
 
-  <h2><a href="{{ site.baseurl }}/dev">Desarrollo</a></h2>
+  <h1><a href="{{ site.baseurl }}/dev">Desarrollo</a></h1>
 <div class="posts">
   {% assign contb = 0 %}
   {% for post in site.posts %}
