@@ -11,6 +11,8 @@ Penguinator es un asistente orientado a gente cuyo objetivo es empezar en linux,
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/908c492b-29d3-4769-ba6f-c134eea25a96)
 
+<a href="https://github.com/reycotallo98](https://github.com/reycotallo98/penguinator/tree/main" class="btn btn-github m-2"><span class="icon"></span>Penguinator</a>
+
 # ¿Qué necesito para implementar penguinator?
 Penguinator es una herramienta opensource, por lo que unicamente necesitas esto:
 - Distribución de Linux
