@@ -7,7 +7,7 @@ title: Desarrollo
 ## En este apartado encontraréis artículos relacionados con el desarrollo, así como documentación o proyectos IOT.
  <hr>
 <div class="posts">
-  {% for post in site.posts.dev %}
+  {% for post in site.posts%}
   {% if post.category == "dev" %}
     <article class="post">
 
