@@ -1,9 +1,9 @@
 ---
 layout: post
 category: dev
-tags: Script Python Desarrollo Educación
+tags: Script Tool Python Linux 
 author: RedDev
-title: Penguinator, tu mejor amigo en linux
+title : Penguinator, tu mejor amigo en linux
 ---
 
 # ¿Qué es penguinator?
