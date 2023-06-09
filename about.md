@@ -19,7 +19,7 @@ Terminado el bachillerato, en 2020 muy quemado de estudiar ya que no era wl cami
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/acd126c0-fb27-4581-bdeb-41c96b9399f9)
 
-Tras esta temporada, empecé el ciclo superior de DAM(Desarrollo de aplicaciones multiplataforma. Tuve un error aquí, y fué entrar con fundamentos de programación. Lo que a mi me llevó a una perdida de interés general por el ciclo y a empezar a formarme por mi cuenta, empezando así con un curso de python bastante interesante en el que se tocan varias ramas del desarrollo como son machine learning o desarrollo web con Django. Gracias a aprender este lenguaje llegue al final del 3º trimestre a un video de (S4vitar)[https://www.youtube.com/c/s4vitar], rompiendo así el mito de que el hacking era un juego o de criminales. Levantando así mi interés por la ciberseguridad.
+Tras esta temporada, empecé el ciclo superior de DAM(Desarrollo de aplicaciones multiplataforma. Tuve un error aquí, y fué entrar con fundamentos de programación. Lo que a mi me llevó a una perdida de interés general por el ciclo y a empezar a formarme por mi cuenta, empezando así con un curso de python bastante interesante en el que se tocan varias ramas del desarrollo como son machine learning o desarrollo web con Django. Gracias a aprender este lenguaje llegue al final del 3º trimestre a un video de [S4vitar](https://www.youtube.com/c/s4vitar), rompiendo así el mito de que el hacking era un juego o de criminales. Levantando así mi interés por la ciberseguridad.
 
 Por lo que llegado el verano de 2022, a mediados de Julio, me puse manos a la obra estudiando hasta un dia seguido sin parar y descubriendo mi pasión. Y lo demás es historia que veréis por aquí.
 
