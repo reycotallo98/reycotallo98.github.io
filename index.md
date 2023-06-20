@@ -91,3 +91,6 @@ layout: default
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
+
+# Mapa de ataque en tiempo real
+<a href="https://threatmap.fortiguard.com/" target="_blank"><iframe loading="lazy" src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen="" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://threatmap.fortiguard.com/" data-ll-status="loaded" class="entered lazyloaded"></iframe><noscript><iframe src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></noscript></a>
