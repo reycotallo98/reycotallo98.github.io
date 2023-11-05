@@ -5,6 +5,7 @@ layout: default
 # Bienvenido a mi blog
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
 <h1><a href="{{ site.baseurl }}/red">Red Team</a></h1>
+<fieldset>
 <div class="posts">
   {% assign cont = 0 %}
   {% for post in site.posts %}
@@ -33,8 +34,10 @@ layout: default
    {% endif %}
   
 </div>
+</fieldset>
 
   <h1><a href="{{ site.baseurl }}/blue">Blue Team</a></h1>
+<fieldset>
 <div class="posts">
   {% assign conta = 0 %}
   {% for post in site.posts %}
@@ -62,9 +65,10 @@ layout: default
  <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
   </div>
- 
+ </fieldset>
 
   <h1><a href="{{ site.baseurl }}/dev">Desarrollo</a></h1>
+  <fieldset>
 <div class="posts">
   {% assign contb = 0 %}
   {% for post in site.posts %}
@@ -91,6 +95,6 @@ layout: default
 <p><strong>No se han encontrado artículos aún</strong></p>
    {% endif %}
 </div>
-
+</fieldset>
 # Mapa de ataque en tiempo real
 <iframe loading="lazy" src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px; height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://threatmap.fortiguard.com/" data-ll-status="loaded" class="entered lazyloaded h-50 w-100"></iframe><noscript><iframe src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px;height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></noscript>
