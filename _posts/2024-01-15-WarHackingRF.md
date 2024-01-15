@@ -26,17 +26,17 @@ El pirateo de RF no solo compromete la integridad de las comunicaciones, sino qu
 ### Ejemplos reales de ataques de piratería de RF
 A través de casos reales, exploraremos incidentes de piratería de RF que han impactado diversas industrias. Estos ejemplos proporcionarán una visión práctica de cómo los hackers aprovechan las vulnerabilidades de las señales de RF para llevar a cabo sus ataques, ilustrando la necesidad urgente de medidas de seguridad robustas:
 
-1. Stuxnet: Sabotaje a Centrifugadoras Nucleares
+- Stuxnet: Sabotaje a Centrifugadoras Nucleares
 En 2010, Stuxnet, un malware sofisticado, capturó la atención del mundo al dirigirse específicamente a sistemas de control industrial. Se centró en las centrifugadoras nucleares de Irán, manipulando las señales de RF para afectar el rendimiento de estas instalaciones cruciales. Este ataque pionero destacó la capacidad de los ciberdelincuentes para utilizar el hacking de RF con fines de sabotaje a gran escala.
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/6e01cf46-0fe0-44be-a356-c52d07ae0dcb)
 
-2. Interceptación de Comunicaciones Militares: GhostNet
+- Interceptación de Comunicaciones Militares: GhostNet
 GhostNet, descubierto en 2009, representó un ataque de hacking de RF dirigido a instituciones gubernamentales y militares. Los atacantes lograron infiltrarse en sistemas altamente seguros, comprometiendo comunicaciones clasificadas. Este caso ilustra cómo las comunicaciones de RF pueden ser explotadas para acceder a información sensible y estratégica.
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/37e62b01-6798-403e-93ff-7ca712ad7a7e)
 
-3. Hacking de Drones: Control Remoto No Autorizado
+- Hacking de Drones: Control Remoto No Autorizado
 Los drones, utilizados en diversas industrias, han sido víctimas de ataques de hacking RF. Atacantes han logrado tomar el control no autorizado de drones al interceptar y manipular las señales de RF que los controlan. Este escenario plantea preocupaciones sobre la seguridad en el espacio aéreo y destaca cómo el hacking de RF puede afectar tecnologías emergentes, como podremos deducir estos aparatos son utilizados como armas en guerras como la reciente guerra en Ucrania.
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/3ae35fdd-f569-4954-9ea2-d136f34ef0a2)
