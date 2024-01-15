@@ -3,7 +3,7 @@ layout: post
 category: red
 tags: RF hacking hack war guerra 
 author: RedDev
-title : RF Hacking: Hackers en el campo de batalla
+title : RF Hacking, Hackers en el campo de batalla
 ---
 
 ¿Qué sucedería si los hackers pudieran controlar las comunicaciones en el campo de batalla? 
