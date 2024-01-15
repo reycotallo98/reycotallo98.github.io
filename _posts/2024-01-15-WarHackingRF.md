@@ -9,9 +9,10 @@ title : RF Hacking, Hackers en el campo de batalla
 ## ¿Qué sucedería si los hackers pudieran controlar las comunicaciones en el campo de batalla? 
 Con el creciente avance de la tecnología inalámbrica, se ha convertido en un desafío cada vez mayor proteger nuestras señales de radiofrecuencia (RF) de los ciberataques. En este artículo exploraremos el mundo del hacking RF y cómo los hackers han encontrado nuevas formas de infiltrarse y manipular las comunicaciones cruciales en situaciones extremas.
 
-Imagínese si un hacker pudiera interferir con las señales de radio que utilizan las fuerzas militares para coordinar sus estrategias de ataque y defensa. Esto podría tener consecuencias catastróficas en el campo de batalla, poniendo en peligro vidas y fracasando misiones clave. Es por eso que la seguridad de las comunicaciones RF se ha vuelto tan importante y urgente. ¡Prepárate para una mirada fascinante y aterradora en el ciberespacio de la guerra moderna!
+
 
 ## Introducción a la piratería informática por radiofrecuencia
+Imagínese si un hacker pudiera interferir con las señales de radio que utilizan las fuerzas militares para coordinar sus estrategias de ataque y defensa. Esto podría tener consecuencias catastróficas en el campo de batalla, poniendo en peligro vidas y fracasando misiones clave. Es por eso que la seguridad de las comunicaciones RF se ha vuelto tan importante y urgente. ¡Prepárate para una mirada fascinante y aterradora en el ciberespacio de la guerra moderna!
 En el vasto paisaje de la ciberseguridad, la piratería informática por radiofrecuencia (RF) emerge como una amenaza intrigante y sofisticada. Este tipo de ataques se centra en explotar las vulnerabilidades presentes en las comunicaciones mediante RF, abriendo la puerta a un sinfín de posibilidades para los ciberdelincuentes. En este artículo, nos sumergiremos en el fascinante mundo del hacking de RF, comprendiendo sus fundamentos, riesgos y las técnicas utilizadas por los hackers.
 
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/6f81a15d-b447-4825-984e-db08fc710da3)
