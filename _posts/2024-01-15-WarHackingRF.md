@@ -49,6 +49,7 @@ Las consideraciones legales y éticas relacionadas con el hacking de radiofrecue
 
 #### Hacking de RF en sistemas militares y de defensa
 Esta sección se adentrará en un terreno aún más delicado: el hacking de RF en sistemas militares y de defensa. Analizaremos los desafíos únicos que enfrentan estas instituciones y las estrategias específicas para salvaguardar la seguridad nacional frente a amenazas cibernéticas.
+
 ![image](https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/7880be15-e012-4552-86c2-d9b21389dad8)
 
 ### Conclusiones sobre el futuro de la piratería de radiofrecuencia y la ciberseguridad
