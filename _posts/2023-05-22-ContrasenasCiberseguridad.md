@@ -6,11 +6,11 @@ author: RedDev
 title : Contraseñas, el abuelo de la ciberseguridad 
 ---
 
-# Contraseñas
+## Contraseñas
 Las contraseñas o passwords, han sido durante mucho tiempo el método de identificación en la red por excelencia.
 Estas se basan en una combinación de carácteres la cual podiamos inventarnos o se generaban, con la cual nos logeamos en nuestras redes sociales, correos electrónicos, cuentas de pc...
 
-# ¿Qué ocurre con las contraseñas?¿Son seguras?¿Estoy seguro?
+## ¿Qué ocurre con las contraseñas?¿Son seguras?¿Estoy seguro?
 Lo primero que debemos saber es de que manera se tratan nuestras contraseñas. 
 En una web con distintos usuarios y sus respectivas contraseñas, estas son almacenadas en una base de datos y mayoritariamente encriptadas, con un cifrado más seguro o menos.
 
@@ -27,7 +27,7 @@ A los que hasta este punto se sientan seguros, dejadme deciros que no lo estais.
 Aquí os adjunto una noticia, que hace poco generó terror en EEUU.
 <a href="https://www.elconfidencial.com/tecnologia/novaceno/2022-04-25/china-eeuu-computacion-cuantica_3412816/">China afirma que puede romper los hases de cifrado de contraseñas</a>
 
-# Viendo como está el panorama, ¿qué opciones tenemos para protegernos?
+## Viendo como está el panorama, ¿qué opciones tenemos para protegernos?
 La opción más utilizada a día de hoy es la molesta para algunos, o la salvadora de otros, el 2FA(2 factor authentication), este se basa en un segundo control de seguridad además de la contraseña, normalmente un código enviado al número de teléfono o al correo vinculado a la cuenta.
 Aún así, esto es insuficiente, ya que es posible captar estos códigos mediante diferentes técnicas, como tener hackeado el correo de la persona, así como directamente bypasear este control.
 
@@ -38,12 +38,12 @@ Existe un 3FA, utilizado a nivel empresarial sobre todo, en empresas con alta ma
 - Objeto personal(móvil, pc...)
 - Identificación biométrica
 
-# ¿Qué es la identificación biométrica?
+## ¿Qué es la identificación biométrica?
 Todos conocemos el famoso Face ID de apple o el login con la huella digital de los smartphones android.
 Estas funciones, mejoran significativamente la seguridad e integridad de nuestras cuentas en internet.
 
 Aunque con técnicas, eso si, muy sofisticadas, que requieren material especifico o muchas horas de ejecución como son el deep fake en el caso del Face ID, podrían ser vulneradas estas medidas.
 
-# Reflexión del autor
+## Reflexión del autor
 En mi opinión, los esfuerzos en obligar a la gente a generar contraseñas seguras, que luego son repetidas en varias cuentas o que sea una contraseña del tipo "MigatoSeLlamaAlan1234", no sirven de nada.
 Se debe enfocar el futuro de la auteticación hacia opciones biometricas o de diferentes sistemas como Google Authenticator, que realmente verifican la identidad de la persona.
