@@ -2,7 +2,7 @@
 layout: default
 ---
  
-# Bienvenido a mi blog
+# Bienvenido a mi blog sobre ciberseguridad
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
 <h1><a href="{{ site.baseurl }}/red">Red Team</a></h1>
 <fieldset>
