@@ -3,8 +3,8 @@ layout: default
 permalink: /dev/
 title: Desarrollo
 ---
-# Desarrollo
-## En este apartado encontraréis artículos relacionados con el desarrollo, así como documentación o proyectos IOT.
+## Desarrollo
+### En este apartado encontraréis artículos relacionados con el desarrollo, así como documentación o proyectos IOT.
  <hr>
 <div class="posts">
   {% for post in site.posts%}
