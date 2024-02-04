@@ -46,5 +46,5 @@ Veamos un ejemplo concreto: Un usuario va paseando por un centro comercial, este
 ### Reflexiones sobre la Seguridad
 Este escenario resalta la importancia de medidas de seguridad como la desactivación de Bluetooth cuando no está en uso y la conciencia sobre los dispositivos cercanos. Además, plantea preguntas sobre cómo los fabricantes de smartphones pueden mejorar la seguridad contra este tipo de ataques.
 
-## Conclusión
+## Más allá de esta "geek prank"
 El Flipper Zero y su capacidad como navaja sueca hacker nos recuerda que la seguridad es un campo en constante evolución. A medida que surgen nuevas herramientas y técnicas, tanto los profesionales de la seguridad como los usuarios deben permanecer vigilantes y educados para protegerse contra amenazas emergentes.
