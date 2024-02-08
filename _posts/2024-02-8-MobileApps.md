@@ -1,9 +1,9 @@
 ---
 layout: post
 category: red
-tags: Bluethoot Hacking Flipper Zero 
+tags: mobile apps app OWASP BurpSuite hacking 
 author: RedDev
-title : Hackeando un smartphone con un Flipper Zero
+title : Descubriendo la Importancia de las Auditorías de Seguridad en Aplicaciones Móviles
 ---
 
 La seguridad en las aplicaciones móviles es más crucial que nunca en un mundo donde la dependencia de la tecnología móvil está en constante aumento. Las auditorías de seguridad son fundamentales para proteger los datos sensibles y garantizar la privacidad del usuario.## Qué es el Flipper Zero
