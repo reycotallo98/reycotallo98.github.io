@@ -13,7 +13,7 @@ Open Web Application Security Project (OWASP) es una fundación sin fines de luc
 
 <img src="https://github.com/reycotallo98/reycotallo98.github.io/assets/93315382/e22957c1-a145-4742-a9ee-40da7ab05839" alt="OWASP test proccess">
 
-### Procedimientos en la Auditoría de Seguridad
+### Procedimientos en pentest de aplicaciones móviles
 #### Pruebas Estáticas
 Las pruebas estáticas implican analizar el código fuente de la aplicación para identificar vulnerabilidades sin ejecutar el programa. Este proceso incluye:
 
