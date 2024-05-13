@@ -96,6 +96,6 @@ layout: default
    {% endif %}
 </div>
 </fieldset>
-</div>
+
 # Mapa de ataque en tiempo real
 <iframe loading="lazy" src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px; height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://threatmap.fortiguard.com/" data-ll-status="loaded" class="entered lazyloaded h-50 w-100"></iframe><noscript><iframe src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px;height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></noscript>
