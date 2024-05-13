@@ -5,7 +5,7 @@ layout: default
 # Bienvenido a mi blog sobre ciberseguridad
 ## Aquí encontraras mis investigaciones y proyectos explicados a detalle, te invito a visitar las categorías:
 <div class="row">
-<div class="col-md-6 col-12">
+<div class="col-lg-6 col-md-12">
  <h1><a href="{{ site.baseurl }}/red">Red Team</a></h1>
 <fieldset>
 <div class="posts">
@@ -99,7 +99,7 @@ layout: default
 </div>
 </fieldset>
 </div>
-<div class="col-md-6 col-12">
+<div class="col-lg-5 col-md-12">
 # Mapa de ataque en tiempo real
 <iframe loading="lazy" src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px; height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://threatmap.fortiguard.com/" data-ll-status="loaded" class="entered lazyloaded h-50 w-100"></iframe><noscript><iframe src="https://threatmap.fortiguard.com/" style="border:0px #ffffff none;width: 800px;height: 800px;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></noscript>
 </div>
