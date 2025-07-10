@@ -3,7 +3,7 @@ layout: post
 category: blue
 tags: Wazuh OpenCTI Tutorial BlueTeam
 author: Jorge Rey, Adrian Rojas
-title : Integrando Wazuh con OpenCTI
+title: Integrando Wazuh con OpenCTI
 ---
 
  
