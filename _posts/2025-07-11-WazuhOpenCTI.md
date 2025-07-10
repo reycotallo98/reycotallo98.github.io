@@ -2,12 +2,12 @@
 layout: post
 category: blue
 tags: Wazuh OpenCTI Tutorial BlueTeam
-author: RedDev
+author: Jorge Rey, Adrian Rojas
 title: Integrando Wazuh con OpenCTI
 ---
 
  
-# Instalación Opencti
+## Instalación Opencti
 
 Por requisitos de un cliente, nos vimos en un aprieto al tener que integrar Wazuh con OpenCTI, estos sistemas, aun con integraciones ya hechas nos llevó un rato de realizarlas debido a que se pensaron para versiones anteriores, y no había demasiada documentación de como hacerlas.
 Por lo que decidimos crear esta pequeña guía de como hacerlo:
